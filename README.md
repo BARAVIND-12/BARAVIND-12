@@ -9,12 +9,11 @@ Hi there, I'm Aravind B 👋
 
 🛠 Skills & Tools
 
-Programming: Python
-Web Development- HTML,CSS,JavaScript
-Databases: MySQL
-Data Visualization: Power BI,Python
-Other Tools: Git, Excel
-
+⚡Programming: Python
+⚡Web Development- HTML,CSS,JavaScript
+⚡Databases: MySQL
+⚡Data Visualization: Power BI,Python
+⚡Other Tools: Git
 
 📂 Projects
 
